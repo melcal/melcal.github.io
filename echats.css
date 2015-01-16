@@ -1,0 +1,43 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+  font-family: helvetica neue, arial, sans-serif; 
+  /*this is the fallback chain for fonts. You can reference the google fonts CSS tag, embed within html*/
+  color: black ;
+  background-color: white;
+  background-image: rimages/Corporate_Business_Technology_Background.rar;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+h2 {
+  border-bottom: .5px lightgray;
+}
+a { 
+  color: orange;
+}
+a:hover {
+  color: purple;
+}
+p, li { 
+  font-size: 16px;
+  line-height: 24px;
+}
+img {
+  float: right;
+}
+#title {
+  float: left;
+}
+#poster {
+  float: right;
+}
+#summary {
+  clear: both;
+  background-color: gray;
+  padding: 20px;
+  border: 1px solid black;
+  margin-top: 20px;
+}
+
+/*a tag is a state tag. Ex: if you've click on a link*/
