@@ -5,7 +5,7 @@ body {
   /*this is the fallback chain for fonts. You can reference the google fonts CSS tag, embed within html*/
   color: black ;
   background-color: white;
-  background-image: rimages/Corporate_Business_Technology_Background.rar;
+  background-image: "blue gear.png";
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
