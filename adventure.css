@@ -1,0 +1,12 @@
+
+.navbar{margin:0;}
+
+
+.jumbotron{
+  margin: 0;
+  background-image: url(fleuve-integrite.jpg); 
+  background-size: cover; 
+  background-position: center;
+}
+
+#btn-primary {color: green;}
