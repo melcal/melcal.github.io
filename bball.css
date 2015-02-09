@@ -1,0 +1,26 @@
+body {
+  
+  margin: 0 auto;
+  font-family: helvetica neue, arial, sans-serif;
+  color: black;
+  background-color: black;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.jumbotron{
+  min-height: 500px; 
+	background-image:url(ncaa-bracket-full.jpg);
+	 background-size: cover;
+	 background-position:bottom;
+   position:right;
+	border:black;
+  vertical-align: center;
+font-family: brush script mt, apple chancery, lucida calligraphy;
+font-size: 36pt;
+color:black;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+  }
+
+  h2{color:white;}

@@ -1,0 +1,28 @@
+
+body {
+  width:900px;
+  margin: 0 auto;
+  font-family: helvetica neue, arial, sans-serif;
+  color: black;
+  text-align: center;
+  background-image:url(palm_tree.jpg);
+  background-position: bottom;
+  background-attachment: fixed;
+}
+.jumbotron{
+  min-height: 500px; 
+	border:black;
+  vertical-align: center;
+  }
+
+
+th {background-color:black;
+color:white;
+position:;}
+
+.pics{max-width:;}
+
+table{
+	margin-top:75px;
+	padding:150px;
+	background-color:linen;}

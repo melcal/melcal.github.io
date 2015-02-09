@@ -1,0 +1,33 @@
+body {
+  
+  margin: 0 auto;
+  font-family: helvetica neue, arial, sans-serif;
+  color: black;
+  background-color: white;
+  background-position: center center;
+  background-attachment: fixed;
+}
+nav {background-color:black;}
+
+.jumbotron{
+  min-height: 500px; 
+	background-image:url(airplane.png);
+	 background-size: cover;
+	 background-position:top;
+	border:black;
+  vertical-align: center;
+font-family: brush script mt, apple chancery, lucida calligraphy;
+font-size: 36pt;
+color:black;}
+
+.row .thumbnail {
+    border:0;
+    box-shadow:0;
+    border-radius:0;
+}
+
+.caption{font-family: lucida calligraphy, sans-serif;
+  color: black;}
+
+
+
